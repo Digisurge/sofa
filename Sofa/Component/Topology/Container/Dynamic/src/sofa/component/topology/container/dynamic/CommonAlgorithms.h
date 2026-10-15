@@ -25,6 +25,8 @@
 #include <sofa/type/Vec.h>
 #include <sofa/type/vector.h>
 
+#include <algorithm>
+
 namespace sofa::component::topology::container::dynamic
 {
 
